@@ -65,7 +65,7 @@ EXTENSIONS=(
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
     "https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
-    "https://github.com/Gourieff/sd-webui-reactor"
+    "https://codeberg.org/Gourieff/comfyui-reactor-node"
     "https://github.com/ahgsql/StyleSelectorXL.git"
     "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper.git"
     "https://github.com/richrobber2/canvas-zoom.git"    
