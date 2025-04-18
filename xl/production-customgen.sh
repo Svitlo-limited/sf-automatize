@@ -82,7 +82,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     # "https://huggingface.co/moiu2998/mymo/resolve/3c3093fa083909be34a10714c93874ce5c9dabc4/realisticVisionV60B1_v51VAE.safetensors"
     # "https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v6%20(SFW).safetensors"
-    "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V65.safetensors"
+    "https://s3.tebi.io/get-honey-ai-models/cyberrealisticPony_v85.safetensors"
     # "https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V7a.safetensors"
     # "https://huggingface.co/jzli/PrefectPonyXL/resolve/main/prefectPonyXL_v50.safetensors"
 )
